@@ -21,7 +21,7 @@
 <p align="center">
   <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="React" width="55" height="55"/>
   <img src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" alt="JavaScript" width="55" height="55"/>
-  <img src="https://www.vectorlogo.zone/logos/redux/redux-icon.svg" alt="Redux" width="55" height="55"/>
+  <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/redux-icon.png" alt="Redux" width="55" height="55"/>
   <img src="https://www.vectorlogo.zone/logos/npmjs/npmjs-icon.svg" alt="npm" width="55" height="55"/>
   <img src="https://www.vectorlogo.zone/logos/yarnpkg/yarnpkg-icon.svg" alt="yarn" width="55" height="55"/>
   <img src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-icon.svg" alt="Bootstrap" width="55" height="55"/>
