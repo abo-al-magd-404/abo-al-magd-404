@@ -33,11 +33,6 @@
 ---
 
 ### 📊 GitHub Stats
-![Abo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-USERNAME&layout=compact&theme=radical)
-
----
-
-### ⚡ Fun fact
-When the CSS doesn’t center, I don’t panic… I just flex 😉
+![Abo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=abo-al-magd-404&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abo-al-magd-404&layout=compact&theme=radical)
 
