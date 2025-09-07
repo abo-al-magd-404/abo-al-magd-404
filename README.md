@@ -7,8 +7,9 @@
 </p>
 
 ---
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYm9ldXF2OGtxODI5ZjM4Y3J0NmYycjJ6eWlhZmluMjJtNGN6NHIweSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif" width="35" />
----
+<p>
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYm9ldXF2OGtxODI5ZjM4Y3J0NmYycjJ6eWlhZmluMjJtNGN6NHIweSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif"/>
+</p>
 
 ### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45" /> About Me:
 - 👨‍💻 My name is **Abo Al Magd** — Frontend Developer
