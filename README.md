@@ -14,7 +14,15 @@
 ### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45" /> About Me:
 - 👨‍💻 My name is **Abo Al Magd** — Frontend Developer
 - ⚡ I build modern UIs and web apps using **React**
-- 💡 Skills: **HTML, CSS, Bootstrap, JavaScript, jQuery, NPM & Yarn, React, Redux**
+- 💡 Skills:
+- <li>**HTML**</li>
+<li>**CSS**</li>
+<li>**Bootstrap**</li>
+<li>**JavaScript**</li>
+<li>**jQuery**</li>
+<li>**NPM & Yarn**</li>
+<li>**React**</li>
+<li>**Redux**</li>
 - 🎯 Focused on writing clean, scalable, and responsive front-end code
 - 🌱 Currently leveling up in **advanced React patterns & performance optimization**
 
