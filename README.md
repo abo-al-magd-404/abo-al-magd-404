@@ -33,7 +33,6 @@
 ---
 
 ### 🚀 Tech I Work With
-### 🚀 Tech I Work With
 <p align="center">
   <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="React" width="55" height="55"/>
   <img src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" alt="JavaScript" width="55" height="55"/>
