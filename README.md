@@ -1,6 +1,6 @@
 # Hi there! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="35" />
 
-Contact Me 🤖
+### 🤖 Contact Me
 <p align="center">
   <a href="https://www.linkedin.com/in/mohamed-mahmoud-4138a2373" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" height="40"/></a>
   &nbsp;
