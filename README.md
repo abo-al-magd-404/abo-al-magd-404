@@ -15,14 +15,14 @@
 - 👨‍💻 My name is **Abo Al Magd** — Frontend Developer
 - ⚡ I build modern UIs and web apps using **React**
 - 💡 Skills:
-**HTML
-**CSS
-**Bootstrap
-**JavaScript
-**jQuery
-**NPM & Yarn
-**React
-**Redux
+1. HTML
+2. CSS
+3. Bootstrap
+4. JavaScript
+5. jQuery
+6. NPM & Yarn
+7. React
+8. Redux
 - 🎯 Focused on writing clean, scalable, and responsive front-end code
 - 🌱 Currently leveling up in **advanced React patterns & performance optimization**
 
