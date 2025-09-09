@@ -15,7 +15,7 @@
 - 👨‍💻 My name is **Abo Al Magd** — Frontend Developer
 - ⚡ I build modern UIs and web apps using **React**
 - 💡 Skills:
-- <li>**HTML**</li>
+<li>**HTML**</li>
 <li>**CSS**</li>
 <li>**Bootstrap**</li>
 <li>**JavaScript**</li>
