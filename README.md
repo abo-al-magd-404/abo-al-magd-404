@@ -2,17 +2,18 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/mohamed-mahmoud-4138a2373" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn"/>
   </a>
-  &nbsp;
+  &nbsp;&nbsp;&nbsp;
   <a href="mailto:abo.al.magd.404@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+    <img src="https://img.icons8.com/color/48/000000/gmail-new.png" alt="Gmail"/>
   </a>
-  &nbsp;
+  &nbsp;&nbsp;&nbsp;
   <a href="https://wa.me/+201095554022" target="_blank">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
+    <img src="https://img.icons8.com/color/48/000000/whatsapp--v1.png" alt="WhatsApp"/>
   </a>
 </p>
+
 
 
 
