@@ -14,20 +14,25 @@
 ### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45" /> About Me:
 - 👨‍💻 My name is **Abo Al Magd** — Frontend Developer
 - ⚡ I build modern UIs and web apps using **React**
-- 💡 Skills:
+- 💡 Skills >>>
 1. HTML
 2. CSS
-3. Bootstrap
-4. JavaScript
-5. jQuery
-6. NPM & Yarn
-7. React
-8. Redux
+3. SASS
+4. Bootstrap
+5. JavaScript
+6. TypeScript
+7. jQuery
+8. Jest
+9. NPM & Yarn
+10. React
+11. Redux
+12. Git & GitHub
 - 🎯 Focused on writing clean, scalable, and responsive front-end code
 - 🌱 Currently leveling up in **advanced React patterns & performance optimization**
 
 ---
 
+### 🚀 Tech I Work With
 ### 🚀 Tech I Work With
 <p align="center">
   <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="React" width="55" height="55"/>
@@ -39,7 +44,13 @@
   <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="HTML5" width="55" height="55"/>
   <img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg" alt="CSS3" width="55" height="55"/>
   <img src="https://www.vectorlogo.zone/logos/jquery/jquery-icon.svg" alt="jQuery" width="55" height="55"/>
+  <img src="https://www.vectorlogo.zone/logos/sass-lang/sass-lang-icon.svg" alt="Sass" width="55" height="55"/>
+  <img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" alt="TypeScript" width="55" height="55"/>
+  <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="Jest" width="55" height="55"/>
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="55" height="55"/>
+  <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" alt="GitHub" width="55" height="55"/>
 </p>
+
 
 ---
 
