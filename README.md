@@ -1,12 +1,19 @@
 # Hi there! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="35" />
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/mohamed-mahmoud-4138a2373" target="_blank" padding="5px"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" height="40"/></a>
+  <a href="https://www.linkedin.com/in/mohamed-mahmoud-4138a2373" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
   &nbsp;
-  <a href="mailto:abo.al.magd.404@gmail.com" target="_blank" padding="5px"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Gmail" height="40"/></a>
+  <a href="mailto:abo.al.magd.404@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
   &nbsp;
-  <a href="https://wa.me/+201095554022" target="_blank" padding="5px"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white" alt="WhatsApp" height="40"/></a>
+  <a href="https://wa.me/+201095554022" target="_blank">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
+  </a>
 </p>
+
 
 
 
