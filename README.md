@@ -31,39 +31,32 @@
 
 ---
 
-### 🧠 Skills & Tools
-- **Languages:** HTML5, CSS3, SASS, JavaScript (ES6+), TypeScript  
-- **Frameworks & Libraries:** React, Next.js 15, Redux Toolkit, jQuery  
-- **Styling:** Tailwind CSS, Bootstrap, SASS Modules  
-- **Tools & Workflow:** Git, GitHub, NPM, Yarn, Jest, Chrome DevTools  
+### 🧠 Skills & Tools  
+
+#### 🏗️ Core Web
+- **HTML5**  
+- **CSS3**  
+  - 🎨 **SCSS / SASS** – structured and reusable styling  
+  - 💎 **Bootstrap** – classic responsive layouts  
+  - 🌈 **Tailwind CSS** – modern utility-first styling  
+
+#### ⚡ Programming
+- **JavaScript (ES6+)** – dynamic and clean coding practices  
+- **TypeScript** – type-safe and scalable development  
+  - 💡 **jQuery** – quick DOM manipulation and legacy compatibility  
+  - 🧪 **Jest** – unit testing and code reliability  
+  - ⚛️ **React.js** – component-based UI architecture  
+  - 🚀 **Next.js** – full-stack React framework for performance and SEO  
+
+#### 🧰 Tools & Workflow
+- 📦 **NPM / Yarn** – package management and dependency control  
+- 🔄 **Git / GitHub** – version control and collaboration  
+- 🧭 **Chrome DevTools** – debugging, auditing, and performance tuning  
 
 ---
 
 ### ⚙️ Tech Stack
-<p align="center">
-  <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="React" width="55" height="55"/>
-  <img src="https://www.vectorlogo.zone/logos/nextjs/nextjs-icon.svg" alt="Next.js" width="55" height="55"/>
-  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="55" height="55"/>
-  <img src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" alt="JavaScript" width="55" height="55"/>
-  <img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" alt="TypeScript" width="55" height="55"/>
-  <img src="https://www.vectorlogo.zone/logos/sass-lang/sass-lang-icon.svg" alt="SASS" width="55" height="55"/>
-  <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/redux-icon.png" alt="Redux" width="55" height="55"/>
-  <img src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-icon.svg" alt="Bootstrap" width="55" height="55"/>
-  <img src="https://www.vectorlogo.zone/logos/npmjs/npmjs-icon.svg" alt="NPM" width="55" height="55"/>
-  <img src="https://www.vectorlogo.zone/logos/yarnpkg/yarnpkg-icon.svg" alt="Yarn" width="55" height="55"/>
-  <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="Jest" width="55" height="55"/>
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="55" height="55"/>
-  <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" alt="GitHub" width="55" height="55"/>
-</p>
-
----
-
-### 🌟 Featured Projects  
-| Project | Description | Tech Stack |
-|----------|--------------|-------------|
-| **Portfolio Website** | A responsive personal site showcasing my work and contact info. | Next.js 15, Tailwind CSS |
-| **E-Commerce UI** | A complete store interface with filtering, cart system, and global state. | React, Redux Toolkit, SASS |
-| **Weather App** | Real-time weather app consuming a public API with dynamic visuals. | React, Fetch API, Tailwind |
+<p align="center"> <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="React" width="55" height="55"/> <img src="https://www.vectorlogo.zone/logos/nextjs/nextjs-icon.svg" alt="Next.js" width="55" height="55"/> <img src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" alt="JavaScript" width="55" height="55"/> <img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" alt="TypeScript" width="55" height="55"/> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="55" height="55"/> <img src="https://www.vectorlogo.zone/logos/sass-lang/sass-lang-icon.svg" alt="SASS" width="55" height="55"/> <img src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-icon.svg" alt="Bootstrap" width="55" height="55"/> <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/redux-icon.png" alt="Redux" width="55" height="55"/> <img src="https://www.vectorlogo.zone/logos/npmjs/npmjs-icon.svg" alt="NPM" width="55" height="55"/> <img src="https://www.vectorlogo.zone/logos/yarnpkg/yarnpkg-icon.svg" alt="Yarn" width="55" height="55"/> <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="HTML5" width="55" height="55"/> <img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg" alt="CSS3" width="55" height="55"/> <img src="https://www.vectorlogo.zone/logos/jquery/jquery-icon.svg" alt="jQuery" width="55" height="55"/> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="Jest" width="55" height="55"/> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="55" height="55"/> <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" alt="GitHub" width="55" height="55"/> </p>
 
 ---
 
