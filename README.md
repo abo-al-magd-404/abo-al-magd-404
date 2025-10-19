@@ -10,54 +10,56 @@
 </p>
 
 ---
-<p align=center>
+
+<p align="center">
 <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYm9ldXF2OGtxODI5ZjM4Y3J0NmYycjJ6eWlhZmluMjJtNGN6NHIweSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif" />
 </p>
 
 ### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45" /> About Me:
 - 👨‍💻 My name is **Abo Al Magd** — Frontend Developer
-- ⚡ I build modern UIs and web apps using **React**
+- ⚡ I build modern, performant UIs and web apps using **React**, **Next.js**, and **Tailwind CSS**
 - 💡 Skills >>>
-1. HTML
-2. CSS
-3. SASS
-4. Bootstrap
-5. JavaScript
-6. TypeScript
-7. jQuery
-8. Jest
-9. NPM & Yarn
-10. React
-11. Redux
-12. Git & GitHub
-- 🎯 Focused on writing clean, scalable, and responsive front-end code
-- 🌱 Currently leveling up in **advanced React patterns & performance optimization**
+  1. HTML5  
+  2. CSS3  
+  3. SASS  
+  4. Tailwind CSS  
+  5. Bootstrap  
+  6. JavaScript (ES6+)  
+  7. TypeScript  
+  8. jQuery  
+  9. Jest  
+  10. NPM & Yarn  
+  11. React  
+  12. Redux / Redux Toolkit  
+  13. Next.js  
+  14. Git & GitHub  
+- 🎯 Focused on building scalable, maintainable, and pixel-perfect front-end experiences
+- 🌱 Currently exploring **Next.js advanced features**, **server components**, and **frontend performance optimization**
 
 ---
 
 ### 🚀 Tech I Work With
 <p align="center">
   <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="React" width="55" height="55"/>
+  <img src="https://www.vectorlogo.zone/logos/nextjs/nextjs-icon.svg" alt="Next.js" width="55" height="55"/>
   <img src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" alt="JavaScript" width="55" height="55"/>
-  <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/redux-icon.png" alt="Redux" width="55" height="55"/>
-  <img src="https://www.vectorlogo.zone/logos/npmjs/npmjs-icon.svg" alt="npm" width="55" height="55"/>
-  <img src="https://www.vectorlogo.zone/logos/yarnpkg/yarnpkg-icon.svg" alt="yarn" width="55" height="55"/>
+  <img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" alt="TypeScript" width="55" height="55"/>
+  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="55" height="55"/>
+  <img src="https://www.vectorlogo.zone/logos/sass-lang/sass-lang-icon.svg" alt="SASS" width="55" height="55"/>
   <img src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-icon.svg" alt="Bootstrap" width="55" height="55"/>
+  <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/redux-icon.png" alt="Redux" width="55" height="55"/>
+  <img src="https://www.vectorlogo.zone/logos/npmjs/npmjs-icon.svg" alt="NPM" width="55" height="55"/>
+  <img src="https://www.vectorlogo.zone/logos/yarnpkg/yarnpkg-icon.svg" alt="Yarn" width="55" height="55"/>
   <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="HTML5" width="55" height="55"/>
   <img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg" alt="CSS3" width="55" height="55"/>
   <img src="https://www.vectorlogo.zone/logos/jquery/jquery-icon.svg" alt="jQuery" width="55" height="55"/>
-  <img src="https://www.vectorlogo.zone/logos/sass-lang/sass-lang-icon.svg" alt="Sass" width="55" height="55"/>
-  <img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" alt="TypeScript" width="55" height="55"/>
   <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="Jest" width="55" height="55"/>
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="55" height="55"/>
   <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" alt="GitHub" width="55" height="55"/>
 </p>
-
 
 ---
 
 ### 📊 GitHub Stats
 ![Abo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=abo-al-magd-404&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abo-al-magd-404&layout=compact&theme=radical&cache_seconds=1800)
-
-
