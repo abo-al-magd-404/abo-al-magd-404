@@ -47,6 +47,7 @@
   - 🧪 **Jest** – unit testing and code reliability  
   - ⚛️ **React.js** – component-based UI architecture  
   - 🚀 **Next.js** – full-stack React framework for performance and SEO  
+  - 🔁 **Redux / Redux Toolkit** – state management for complex applications  
 
 #### 🧰 Tools & Workflow
 - 📦 **NPM / Yarn** – package management and dependency control  
@@ -56,7 +57,25 @@
 ---
 
 ### ⚙️ Tech Stack
-<p align="center"> <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="React" width="55" height="55"/> <img src="https://www.vectorlogo.zone/logos/nextjs/nextjs-icon.svg" alt="Next.js" width="55" height="55"/> <img src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" alt="JavaScript" width="55" height="55"/> <img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" alt="TypeScript" width="55" height="55"/> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="55" height="55"/> <img src="https://www.vectorlogo.zone/logos/sass-lang/sass-lang-icon.svg" alt="SASS" width="55" height="55"/> <img src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-icon.svg" alt="Bootstrap" width="55" height="55"/> <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/redux-icon.png" alt="Redux" width="55" height="55"/> <img src="https://www.vectorlogo.zone/logos/npmjs/npmjs-icon.svg" alt="NPM" width="55" height="55"/> <img src="https://www.vectorlogo.zone/logos/yarnpkg/yarnpkg-icon.svg" alt="Yarn" width="55" height="55"/> <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="HTML5" width="55" height="55"/> <img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg" alt="CSS3" width="55" height="55"/> <img src="https://www.vectorlogo.zone/logos/jquery/jquery-icon.svg" alt="jQuery" width="55" height="55"/> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="Jest" width="55" height="55"/> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="55" height="55"/> <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" alt="GitHub" width="55" height="55"/> </p>
+<p align="center">
+  <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="HTML5" width="55" height="55"/>
+  <img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg" alt="CSS3" width="55" height="55"/>
+  <img src="https://www.vectorlogo.zone/logos/sass-lang/sass-lang-icon.svg" alt="SASS" width="55" height="55"/>
+  <img src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-icon.svg" alt="Bootstrap" width="55" height="55"/>
+  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="55" height="55"/>
+  <img src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" alt="JavaScript" width="55" height="55"/>
+  <img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" alt="TypeScript" width="55" height="55"/>
+  <img src="https://www.vectorlogo.zone/logos/jquery/jquery-icon.svg" alt="jQuery" width="55" height="55"/>
+  <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="Jest" width="55" height="55"/>
+  <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="React" width="55" height="55"/>
+  <img src="https://www.vectorlogo.zone/logos/nextjs/nextjs-icon.svg" alt="Next.js" width="55" height="55"/>
+  <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/redux-icon.png" alt="Redux" width="55" height="55"/>
+  <img src="https://www.vectorlogo.zone/logos/npmjs/npmjs-icon.svg" alt="NPM" width="55" height="55"/>
+  <img src="https://www.vectorlogo.zone/logos/yarnpkg/yarnpkg-icon.svg" alt="Yarn" width="55" height="55"/>
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="55" height="55"/>
+  <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" alt="GitHub" width="55" height="55"/> 
+  <img src="[https://www.vectorlogo.zone/logos/github/github-icon.svg](https://images.icon-icons.com/2552/PNG/512/chrome_devtools_browser_logo_icon_153005.png)" alt="Chrome DevTools" width="55" height="55"/> 
+</p>
 
 ---
 
