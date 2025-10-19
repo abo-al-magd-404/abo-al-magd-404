@@ -74,7 +74,7 @@
   <img src="https://www.vectorlogo.zone/logos/yarnpkg/yarnpkg-icon.svg" alt="Yarn" width="55" height="55"/>
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="55" height="55"/>
   <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" alt="GitHub" width="55" height="55"/> 
-  <img src="[https://www.vectorlogo.zone/logos/github/github-icon.svg](https://images.icon-icons.com/2552/PNG/512/chrome_devtools_browser_logo_icon_153005.png)" alt="Chrome DevTools" width="55" height="55"/> 
+  <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" alt="Chrome DevTools" width="55" height="55"/> 
 </p>
 
 ---
