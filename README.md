@@ -59,11 +59,12 @@ An overview of the technologies I am actively studying and applying in my projec
 
 ---
 
-## 📊 GitHub Contributions
+## 🏆 GitHub Milestones
+
+Showcasing my commitment to development through achievements.
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abo-al-magd-404&show_icons=true&theme=radical&hide_border=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abo-al-magd-404&layout=compact&theme=radical&hide_border=true" height="165" />
+  <img src="https://github-profile-trophy.vercel.app/?username=abo-al-magd-404&theme=radical&no-frame=true&no-bg=true" alt="GitHub Trophies" />
 </p>
 
 ---
@@ -77,5 +78,3 @@ An overview of the technologies I am actively studying and applying in my projec
   &nbsp;
   <a href="https://wa.me/+201095554022" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/></a>
 </p>
-
----
