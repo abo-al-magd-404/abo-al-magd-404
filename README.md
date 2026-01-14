@@ -3,94 +3,99 @@
 </h1>
 
 <h3 align="center">
-Software Engineer | Full-Stack Web Development
+  Software Engineer • Full-Stack Web Development
 </h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=36BCF7&center=true&vCenter=true&width=440&lines=Frontend-first+Engineer;Backend+in+progress;Learning+by+building+real+systems" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Code-JavaScript-yellow?style=flat-square&logo=javascript" />
+  <img src="https://img.shields.io/badge/Framework-React-blue?style=flat-square&logo=react" />
+  <img src="https://img.shields.io/badge/Backend-Node.js-green?style=flat-square&logo=node.js" />
+  <img src="https://img.shields.io/badge/Status-Learning%20in%20Public-orange?style=flat-square" />
+</p>
 
 ---
 
 ## 🧑‍💻 About Me
 
-I’m a **Software Engineer** who builds complete web systems — from user-facing interfaces to backend services and data layers.
+I’m a **Software Engineer** focused on **Full-Stack Web Development**.
 
-I approach software as an **engineering discipline**, not a collection of tools.
-My focus is on understanding how systems work end-to-end, making conscious design decisions, and writing code that scales in complexity without collapsing.
+I started my journey with a strong emphasis on **Front-End Development**, building solid foundations in HTML, CSS, and JavaScript, then moving into modern frameworks like **React** and **Next.js**.
 
----
+Currently, my main focus is **Backend Development**, where I’m actively learning and building with the **Node.js ecosystem** to understand how real-world backend systems are designed, implemented, and maintained.
 
-## 🧠 Engineering Capabilities
-
-### Frontend Engineering
-
-I design and implement modern user interfaces with a strong focus on structure, performance, and usability.
-
-**What I work with conceptually**
-- Component-driven architecture
-- State management and predictable data flow
-- Rendering behavior and performance optimization
-- Responsive layouts and accessibility
-
-**Implementation**
-- React & Next.js
-- TypeScript
-- Tailwind CSS
-- HTML5 / CSS3 / SCSS
+> I’m not claiming mastery — I’m building it.
 
 ---
 
-### Backend Engineering
+## 🧠 Frontend Skills
 
-I build backend systems that handle real-world concerns such as data consistency, security, and scalability.
-
-**Core backend capabilities**
-- RESTful API design and implementation
-- Request lifecycle, middleware, and routing
-- Input validation and centralized error handling
-- Authentication & authorization
-- Security fundamentals (hashing, encryption, rate limiting, CORS, CSRF)
-- File uploads, email services, background jobs, and scheduled tasks
-- Pagination, relations, and data modeling
-- Real-time communication concepts
-- Deployment and environment configuration
-
-**Backend stack & ecosystem**
-- Node.js ecosystem (Express, NestJS)
-- Databases: SQL & NoSQL
-- ORMs / ODMs
-- Session-based and token-based authentication
-- Docker fundamentals
+- HTML5, CSS3, SCSS  
+- Tailwind CSS, Bootstrap  
+- JavaScript (ES6+)  
+- TypeScript  
+- React.js  
+- Next.js  
+- Component-based UI & responsive layouts  
+- Basic state management concepts  
 
 ---
 
-## 🧰 Software Engineering Practices
+## 🔧 Backend (In Progress)
 
-- Modular and layered folder structures
-- Separation of concerns between business logic and infrastructure
-- Writing maintainable and testable code
-- Version control with Git & GitHub
-- Debugging and performance analysis
-- Familiarity with testing concepts and tooling
+Currently studying and practicing backend development, including:
+
+- Node.js fundamentals  
+- Express.js  
+- REST API design  
+- MVC architecture  
+- Middleware & routing  
+- Authentication & authorization basics  
+- Input validation & centralized error handling  
+- Working with databases (SQL & NoSQL)  
+- ORM / ODM basics (Sequelize, Mongoose)  
+- File uploads, emails, pagination  
+- Intro to NestJS  
+- Intro to Redis, Docker, GraphQL, Socket.IO  
+
+> This reflects **what I’m actively learning and applying**, not expert-level claims.
+
+---
+
+## 🧰 Tools & Workflow
+
+- Git & GitHub  
+- NPM / Yarn  
+- Basic testing concepts (Jest)  
+- Environment configuration  
+- Debugging & problem-solving mindset  
 
 ---
 
 ## 🧩 How I Think About Software
 
-I don’t define myself by the tools I use,  
-but by the problems I can model and solve.
+I treat software as an **engineering process**, not just writing code.
 
-Good software is:
-- Easy to reason about
-- Safe to change
-- Honest about its complexity
+I care about:
+- Understanding problems before choosing tools  
+- Writing readable, maintainable code  
+- Learning system design step by step  
+- Progress over hype  
 
-Frameworks evolve.  
-Engineering principles remain.
+Frameworks change.  
+Fundamentals compound.
 
 ---
 
-## ☕ Fun Fact
+## ☕ Reality Check
 
-> The hardest part of software is not writing code —  
-> it’s deciding what *not* to write.
+> I’m still learning.  
+> I build, I break things, I fix them, and I repeat.
+
+That’s the job.
 
 ---
 
@@ -98,17 +103,10 @@ Engineering principles remain.
 
 <p align="center">
   <a href="https://mail.google.com/mail/?view=cm&to=abo.al.magd.404@gmail.com" target="_blank">
-    <img 
-      src="https://img.shields.io/badge/Email-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"
-      alt="Email"
-    />
+    <img src="https://img.shields.io/badge/Email-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   &nbsp;&nbsp;
   <a href="https://wa.me/201095554022" target="_blank">
-    <img 
-      src="https://img.shields.io/badge/WhatsApp-Chat-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"
-      alt="WhatsApp"
-    />
+    <img src="https://img.shields.io/badge/WhatsApp-Chat-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
   </a>
 </p>
-
