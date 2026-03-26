@@ -3,99 +3,131 @@
 </h1>
 
 <h3 align="center">
-  Software Engineer • Full-Stack Web Development
+  Full-Stack JavaScript Engineer (MERN)  
+  Focused on building scalable web applications
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=36BCF7&center=true&vCenter=true&width=440&lines=Frontend-first+Engineer;Backend+in+progress;Learning+by+building+real+systems" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&pause=1000&color=36BCF7&center=true&vCenter=true&width=380&lines=Building+scalable+MERN+applications;Turning+ideas+into+production-ready+systems;Shipping+real+backend+projects" alt="Typing SVG" />
 </p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Code-JavaScript-yellow?style=flat-square&logo=javascript" />
   <img src="https://img.shields.io/badge/Framework-React-blue?style=flat-square&logo=react" />
   <img src="https://img.shields.io/badge/Backend-Node.js-green?style=flat-square&logo=node.js" />
-  <img src="https://img.shields.io/badge/Status-Learning%20in%20Public-orange?style=flat-square" />
+  <img src="https://img.shields.io/badge/Stack-MERN-black?style=flat-square" />
 </p>
 
 ---
 
 ## 🧑‍💻 About Me
 
-I’m a **Software Engineer** focused on **Full-Stack Web Development**.
+I’m a Full-Stack JavaScript Engineer focused on building scalable and maintainable web applications.
 
-I started my journey with a strong emphasis on **Front-End Development**, building solid foundations in HTML, CSS, and JavaScript, then moving into modern frameworks like **React** and **Next.js**.
+I started with a strong foundation in frontend development (HTML, CSS, JavaScript), then moved into modern frameworks like React and Next.js.
 
-Currently, my main focus is **Backend Development**, where I’m actively learning and building with the **Node.js ecosystem** to understand how real-world backend systems are designed, implemented, and maintained.
+Currently, I’m deepening my backend expertise using Node.js — focusing on how real-world systems are designed, structured, and optimized.
 
-> I’m not claiming mastery — I’m building it.
+I don’t chase titles — I build skills through real projects.
 
 ---
 
-## 🧠 Frontend Skills
+## 🧠 Frontend
 
 - HTML5, CSS3, SCSS  
 - Tailwind CSS, Bootstrap  
-- JavaScript (ES6+)  
-- TypeScript  
-- React.js  
-- Next.js  
-- Component-based UI & responsive layouts  
-- Basic state management concepts  
+- JavaScript (ES6+), TypeScript  
+- React.js, Next.js  
+- Component Architecture & Responsive Design  
+- State Management (Redux Toolkit - basics)  
 
 ---
 
-## 🔧 Backend (In Progress)
+## 🔧 Backend
 
-Currently studying and practicing backend development, including:
+- Node.js, Express.js  
+- REST API Design & MVC Architecture  
+- Authentication & Authorization (JWT - basics)  
+- Input Validation & Error Handling  
+- MongoDB & SQL (basics)  
+- Mongoose, Sequelize (basics)  
+- File Uploads, Emails, Pagination  
 
-- Node.js fundamentals  
-- Express.js  
-- REST API design  
-- MVC architecture  
-- Middleware & routing  
-- Authentication & authorization basics  
-- Input validation & centralized error handling  
-- Working with databases (SQL & NoSQL)  
-- ORM / ODM basics (Sequelize, Mongoose)  
-- File uploads, emails, pagination  
-- Intro to NestJS  
-- Intro to Redis, Docker, GraphQL, Socket.IO  
-
-> This reflects **what I’m actively learning and applying**, not expert-level claims.
+**Familiar with:**
+- NestJS  
+- Redis  
+- Docker  
+- GraphQL  
+- Socket.IO  
 
 ---
 
 ## 🧰 Tools & Workflow
 
 - Git & GitHub  
-- NPM / Yarn  
-- Basic testing concepts (Jest)  
-- Environment configuration  
-- Debugging & problem-solving mindset  
+- NPM, Yarn  
+- Jest (basic testing)  
+- Environment & Configuration Management  
+- Debugging & Performance Optimization  
+
+---
+
+## 🚀 Projects
+
+### 🔹 Project Name
+Short description: what problem it solves and what you built.
+
+- Tech Stack: React, Node.js, MongoDB  
+- Features: Auth, CRUD, API integration  
+- Live Demo: [Link]  
+- Repo: [Link]
+
+---
+
+### 🔹 Project Name
+Short description: what problem it solves and what you built.
+
+- Tech Stack: Next.js, Express, PostgreSQL  
+- Features: Dashboard, Role-based access  
+- Live Demo: [Link]  
+- Repo: [Link]
+
+---
+
+> Replace these with your real projects. Focus on impact, not quantity.
 
 ---
 
 ## 🧩 How I Think About Software
 
-I treat software as an **engineering process**, not just writing code.
+I approach software as an engineering discipline, not just code.
 
-I care about:
+I focus on:
 - Understanding problems before choosing tools  
-- Writing readable, maintainable code  
-- Learning system design step by step  
-- Progress over hype  
+- Writing clean, maintainable systems  
+- Learning system design progressively  
+- Building consistency over chasing trends  
 
-Frameworks change.  
-Fundamentals compound.
+Frameworks change. Fundamentals compound.
 
 ---
 
-## ☕ Reality Check
+## 💬 Communication
 
-> I’m still learning.  
-> I build, I break things, I fix them, and I repeat.
+- Clear and structured thinking  
+- Ability to explain technical concepts simply  
+- Collaborative and team-oriented mindset  
+- Open to feedback and continuous improvement  
 
-That’s the job.
+---
+
+## ☕ Mindset
+
+Junior engineer focused on growth.
+
+I build systems, break them, fix them, and improve them.
+
+That’s the process.
 
 ---
 
