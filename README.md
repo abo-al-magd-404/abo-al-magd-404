@@ -72,29 +72,15 @@ I don’t chase titles — I build skills through real projects.
 
 ---
 
-## 🚀 Projects
+## 🚀 Projects (in progress)
 
 ### 🔹 Project Name
-Short description: what problem it solves and what you built.
+description: still working.
 
-- Tech Stack: React, Node.js, MongoDB  
-- Features: Auth, CRUD, API integration  
-- Live Demo: [Link]  
-- Repo: [Link]
-
----
-
-### 🔹 Project Name
-Short description: what problem it solves and what you built.
-
-- Tech Stack: Next.js, Express, PostgreSQL  
-- Features: Dashboard, Role-based access  
-- Live Demo: [Link]  
-- Repo: [Link]
-
----
-
-> Replace these with your real projects. Focus on impact, not quantity.
+- Tech Stack: lorem, lorem, lorem.  
+- Features: lorem, lorem, lorem.  
+- Live Demo: [StillWorking]  
+- Repository: [StillWorking]
 
 ---
 
@@ -112,15 +98,6 @@ Frameworks change. Fundamentals compound.
 
 ---
 
-## 💬 Communication
-
-- Clear and structured thinking  
-- Ability to explain technical concepts simply  
-- Collaborative and team-oriented mindset  
-- Open to feedback and continuous improvement  
-
----
-
 ## ☕ Mindset
 
 Junior engineer focused on growth.
@@ -131,14 +108,14 @@ That’s the process.
 
 ---
 
-## 🤖 Contact
+## 📫 Contact Me
 
 <p align="center">
   <a href="https://mail.google.com/mail/?view=cm&to=abo.al.magd.404@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   &nbsp;&nbsp;
   <a href="https://wa.me/201095554022" target="_blank">
-    <img src="https://img.shields.io/badge/WhatsApp-Chat-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+    <img src="https://img.shields.io/badge/WhatsApp-Let's_Connect-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
   </a>
 </p>
