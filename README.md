@@ -3,7 +3,7 @@
 </h1>
 
 <h3 align="center">
-  Full-Stack JavaScript Engineer (MERN)  
+  Full-Stack JavaScript Engineer (MERN) <br>
   Focused on building scalable web applications
 </h3>
 
