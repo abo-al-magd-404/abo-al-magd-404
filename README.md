@@ -67,18 +67,6 @@ I don’t chase titles — I build solid software engineering skills through arc
 
 ---
 
-## 📊 GitHub Analytics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abo-al-magd-404&show_icons=true&theme=radial&count_private=true" alt="Abo Al Magd GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abo-al-magd-404&layout=compact&theme=radial" alt="Top Languages Used" />
-</p>
-
----
-
 ## 🚀 Projects (In Progress)
 
 ### 🔹 Enterprise E-Commerce API / Web App
