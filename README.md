@@ -60,7 +60,7 @@ Every new project is an opportunity to improve software quality, architecture, p
 
 <p>
 
-<img src="https://skillicons.dev/icons?i=nodejs,express, redis"/>
+<img src = "https://skillicons.dev/icons?i=nodejs,express,graphql,redis" //>
 
 </p>
 
@@ -136,14 +136,6 @@ A production-ready backend for a modern social media platform built with **Node.
 ---
 
 # 📊 GitHub Statistics
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=abo-al-magd-404&show_icons=true&include_all_commits=true&rank_icon=github&theme=github_dark&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abo-al-magd-404&layout=compact&langs_count=8&theme=github_dark&hide_border=true"/>
-
-</div>
 
 <div align="center">
 
