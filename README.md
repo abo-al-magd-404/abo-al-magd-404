@@ -1,111 +1,183 @@
-<h1 align="center">
-  Hey, I'm Abo Al Magd 👋
-</h1>
+<div align="center">
 
-<h3 align="center">
-  Full-Stack JavaScript Engineer (MERN) <br>
-  Focused on building scalable, real-world web applications
-</h3>
+# 👋 Hi, I'm Mohamed Mahmoud Abo Al-Magd
+
+### Full-Stack Web Developer (MERN) • Computer Science Student
+
+Building scalable, maintainable, and modern web applications.
+
+<br/>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&pause=1000&color=36BCF7&center=true&vCenter=true&width=450&lines=Building+scalable+MERN+applications;Turning+ideas+into+production-ready+systems;Shipping+robust+backend+architectures" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1200&color=58A6FF&center=true&vCenter=true&random=false&width=750&lines=Full-Stack+Web+Developer;React+%26+Next.js+Developer;Node.js+%26+Express.js+Developer;GraphQL+%7C+RESTful+APIs;Docker+Enthusiast;Open+to+Internship+Opportunities" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Code-JavaScript-yellow?style=flat-square&logo=javascript" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/Code-TypeScript-blue?style=flat-square&logo=typescript" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/Framework-React-blue?style=flat-square&logo=react" alt="React" />
-  <img src="https://img.shields.io/badge/Framework-Next.js-black?style=flat-square&logo=next.js" alt="Next.js" />
-  <img src="https://img.shields.io/badge/Backend-Node.js-green?style=flat-square&logo=node.js" alt="Node.js" />
-  <img src="https://img.shields.io/badge/Stack-MERN-black?style=flat-square" alt="MERN" />
+
+![](https://img.shields.io/badge/Open%20To-Internship-success?style=for-the-badge)
+
+![](https://img.shields.io/badge/MERN-Stack-0A192F?style=for-the-badge)
+
+![](https://img.shields.io/badge/Computer%20Science-Student-blue?style=for-the-badge)
+
+</p>
+
+</div>
+
+---
+
+# 🚀 About Me
+
+I'm a **Computer Science student** passionate about building scalable, maintainable, and high-quality web applications.
+
+I enjoy working across the entire development lifecycle—from designing modern user interfaces with **React** and **Next.js** to building robust backend systems using **Node.js**, **Express**, **GraphQL**, **MongoDB**, and **Docker**.
+
+I'm currently looking for an internship where I can contribute, learn from experienced engineers, and continue growing as a software developer.
+
+---
+
+# 🎯 Current Focus
+
+- Backend Architecture
+- RESTful APIs
+- GraphQL
+- Docker
+- Performance Optimization
+- Clean Architecture
+- System Design Fundamentals
+
+---
+
+# 💻 Tech Stack
+
+## 🎨 Frontend
+
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js,ts,react,nextjs,redux" />
 </p>
 
 ---
 
-## 🧑‍💻 About Me
+## ⚙️ Backend
 
-I’m a Full-Stack JavaScript Engineer focused on building scalable, secure, and maintainable web applications. 
-
-I started with a strong foundation in frontend development, mastering UI engineering and advancing up to frameworks like React and Next.js. To complete the circle, I underwent rigorous backend training with **Route Academy**, learning how real-world enterprise systems are designed, structured, and optimized.
-
-I don’t chase titles — I build solid software engineering skills through architecture and clean code.
-
----
-
-## 🧠 Frontend Skills
-
-- **Languages:** JavaScript (ES6+), TypeScript
-- **Styling & UI:** HTML5, CSS3, SCSS / SASS, Tailwind CSS, Bootstrap
-- **Libraries & Frameworks:** React.js, Next.js, jQuery
-- **State Management & Architecture:** Redux / Redux Toolkit, Component Architecture, Responsive Design
-- **Testing:** UI Testing with Jest
-
----
-
-## 🔧 Backend Architecture & Databases
-
-- **Core Runtimes & Frameworks:** Node.js, Express.js, EJS (Templating Engines)
-- **Architecture Patterns:** MVC (Model-View-Controller) Architecture, REST API Design, Routers & Models
-- **Databases & ORMs/ODMs:** MongoDB (Mongoose), MySQL (Sequelize)
-- **Security & Middleware:** Authentication & Authorization, Social Media Login (OAuth via Gmail), Input Validation (JOI), Advanced Error Handling
-- **Advanced Features:** File Uploads, Pagination, CRON Jobs, PDF & QR Code Generation, Async Request Handling
-
-**Familiar with & Exploring:**
-- **Frameworks:** NestJS (Intro)
-- **API Technologies:** GraphQL
-- **Real-Time & Caching:** Socket.IO, RedisDB (Caching)
-- **DevOps:** Docker (Intro), Deployment on Real Servers
-
----
-
-## 🧰 Tools & Workflow
-
-- **Version Control:** Git & GitHub
-- **Package Managers:** NPM, YARN
-- **Testing:** Jest (Unit Testing)
-- **Optimization:** Debugging, Caching, and Performance Optimization
-
----
-
-## 🚀 Projects (In Progress)
-
-### 🔹 Enterprise E-Commerce API / Web App
-*Currently building a fully-featured application incorporating the core competencies learned at Route Academy.*
-
-- **Tech Stack:** Node.js, Express.js, MongoDB, Mongoose, React.js / Next.js
-- **Key Features Implemented:** Advanced MVC structure, JWT-based Authentication/Authorization, JOI server-side validation, image uploads, and automated invoicing.
-- **Live Demo:** *Coming Soon*
-- **Repository:** *In Progress*
-
----
-
-## 🧩 How I Think About Software
-
-I approach software as an engineering discipline, not just writing code lines.
-
-I focus on:
-- Understanding the business domain and problem requirements before picking a tool.
-- Prioritizing clean code, structural separation of concerns, and maintainable data models.
-- Mastering foundational computer science and systems design concepts over framework trends.
-
-> *Frameworks change. Fundamentals compound.*
-
----
-
-## ☕ Mindset
-
-An engineer focused entirely on continuous growth. I build systems, break them down intentionally, fix them, and optimize them further. That is the engineering loop.
-
----
-
-## 📫 Contact Me
-
-<p align="center">
-  <a href="https://mail.google.com/mail/?view=cm&to=abo.al.magd.404@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://wa.me/201095554022" target="_blank">
-    <img src="https://img.shields.io/badge/WhatsApp-Let's_Connect-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
-  </a>
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express" />
 </p>
+
+**Technologies**
+
+- RESTful APIs
+- GraphQL
+- Socket.IO
+- JWT Authentication
+- OAuth
+- Authentication & Authorization
+- Redis
+
+---
+
+## 🗄 Databases
+
+<p>
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,redis" />
+</p>
+
+- MongoDB
+- Mongoose
+- MySQL
+- Sequelize
+
+---
+
+## 🛠 Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,docker,vscode,postman,npm" />
+</p>
+
+---
+
+# 🧠 Development Principles
+
+- Clean Code
+- Scalable Architecture
+- Separation of Concerns
+- Reusable Components
+- RESTful Design
+- Performance First
+- Divide & Conquer
+- Continuous Learning
+
+---
+
+# ⭐ Featured Project
+
+## Social Media Platform API
+
+A scalable backend for a modern social media platform built with **Node.js**, **Express**, and **MongoDB**.
+
+### Features
+
+- JWT Authentication
+- OAuth
+- Authentication & Authorization
+- RESTful APIs
+- GraphQL
+- Socket.IO
+- Redis Caching
+- MongoDB
+- Docker
+
+### Repository
+
+🔗 **https://github.com/abo-al-magd-404/assignment-17**
+
+---
+
+# 📈 GitHub Analytics
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=abo-al-magd-404&show_icons=true&theme=github_dark&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abo-al-magd-404&layout=compact&theme=github_dark&hide_border=true"/>
+
+</div>
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=abo-al-magd-404&theme=github-dark-blue&hide_border=true"/>
+
+</div>
+
+---
+
+# 📚 Currently Exploring
+
+- Advanced Backend Architecture
+- Distributed Systems
+- Cloud Deployment
+- Software Design Patterns
+- Performance Optimization
+
+---
+
+# 🤝 Let's Connect
+
+📧 **Email**
+
+**abo.al.magd.404@gmail.com**
+
+📱 **WhatsApp**
+
+**https://wa.me/201095554022**
+
+---
+
+<div align="center">
+
+### Thanks for visiting my profile!
+
+*"Great software isn't just about making things work — it's about building solutions that are clean, scalable, and built to last."*
+
+</div>
