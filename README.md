@@ -60,7 +60,7 @@ Every new project is an opportunity to improve software quality, architecture, p
 
 <p>
 
-<img src="https://skillicons.dev/icons?i=nodejs,express"/>
+<img src="https://skillicons.dev/icons?i=nodejs,express, redis"/>
 
 </p>
 
@@ -80,7 +80,7 @@ Every new project is an opportunity to improve software quality, architecture, p
 
 <p>
 
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,redis"/>
+<img src="https://skillicons.dev/icons?i=mongodb,mysql"/>
 
 </p>
 
@@ -116,7 +116,7 @@ Every new project is an opportunity to improve software quality, architecture, p
 
 ## Social Media Platform API
 
-A production-ready backend for a modern social media platform built with **Node.js**, **Express**, **MongoDB**, and **Docker**.
+A production-ready backend for a modern social media platform built with **Node.js**, **Express**, **MongoDB**.
 
 ### Highlights
 
@@ -127,7 +127,6 @@ A production-ready backend for a modern social media platform built with **Node.
 - GraphQL
 - Socket.IO
 - Redis Caching
-- Docker
 - MongoDB
 
 ### Repository
