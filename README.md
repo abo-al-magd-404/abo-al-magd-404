@@ -60,7 +60,7 @@ Every new project is an opportunity to improve software quality, architecture, p
 
 <p>
 
-<img src = "https://skillicons.dev/icons?i=nodejs,express,graphql,redis" //>
+<img src="https://skillicons.dev/icons?i=nodejs,express,graphql,redis" />
 
 </p>
 
