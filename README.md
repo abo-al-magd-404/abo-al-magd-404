@@ -1,24 +1,24 @@
 <div align="center">
 
-# 👋 Hi, I'm Mohamed Mahmoud Abo Al-Magd
+# Mohamed Mahmoud Abo Al-Magd
 
 ### Full-Stack Web Developer (MERN) • Computer Science Student
 
-Building scalable, maintainable, and modern web applications.
-
-<br/>
-
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1200&color=58A6FF&center=true&vCenter=true&random=false&width=750&lines=Full-Stack+Web+Developer;React+%26+Next.js+Developer;Node.js+%26+Express.js+Developer;GraphQL+%7C+RESTful+APIs;Docker+Enthusiast;Open+to+Internship+Opportunities" />
+<p>
+Building modern, scalable, and production-ready web applications.
 </p>
 
-<p align="center">
+<p>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=23&duration=3500&pause=1200&color=58A6FF&center=true&vCenter=true&width=750&lines=Full-Stack+Web+Developer;React+%26+Next.js;Node.js+%26+Express.js;GraphQL+%7C+RESTful+APIs;Always+Building+Something+New;Open+to+Internship+Opportunities" />
+</p>
 
-![](https://img.shields.io/badge/Open%20To-Internship-success?style=for-the-badge)
+<p>
 
-![](https://img.shields.io/badge/MERN-Stack-0A192F?style=for-the-badge)
+<img src="https://img.shields.io/badge/Open%20to-Internship-success?style=for-the-badge"/>
 
-![](https://img.shields.io/badge/Computer%20Science-Student-blue?style=for-the-badge)
+<img src="https://img.shields.io/badge/MERN-Stack-161B22?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Computer%20Science-Student-blue?style=for-the-badge"/>
 
 </p>
 
@@ -26,45 +26,45 @@ Building scalable, maintainable, and modern web applications.
 
 ---
 
-# 🚀 About Me
+# 👨‍💻 About Me
 
-I'm a **Computer Science student** passionate about building scalable, maintainable, and high-quality web applications.
+I'm **Mohamed Mahmoud Abo Al-Magd**, a **Full-Stack Web Developer (MERN)** and a **Computer Science student** passionate about building modern web applications.
 
-I enjoy working across the entire development lifecycle—from designing modern user interfaces with **React** and **Next.js** to building robust backend systems using **Node.js**, **Express**, **GraphQL**, **MongoDB**, and **Docker**.
+I enjoy working across the entire development lifecycle—from crafting polished user interfaces with **React** and **Next.js** to designing scalable backend systems using **Node.js**, **Express**, **GraphQL**, and **MongoDB**.
 
-I'm currently looking for an internship where I can contribute, learn from experienced engineers, and continue growing as a software developer.
-
----
-
-# 🎯 Current Focus
-
-- Backend Architecture
-- RESTful APIs
-- GraphQL
-- Docker
-- Performance Optimization
-- Clean Architecture
-- System Design Fundamentals
+Rather than simply writing code, I focus on building software that is clean, maintainable, scalable, and ready for real-world use.
 
 ---
 
-# 💻 Tech Stack
+# 🚀 What I'm Doing
 
-## 🎨 Frontend
+Currently, I'm focused on building **real-world, production-ready full-stack applications** that combine modern frontend experiences with scalable backend architectures.
+
+Every new project is an opportunity to improve software quality, architecture, performance, and user experience.
+
+---
+
+# ⚡ Tech Stack
+
+### Frontend
 
 <p>
-<img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js,ts,react,nextjs,redux" />
+
+<img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js,ts,react,nextjs"/>
+
 </p>
 
 ---
 
-## ⚙️ Backend
+### Backend
 
 <p>
-<img src="https://skillicons.dev/icons?i=nodejs,express" />
+
+<img src="https://skillicons.dev/icons?i=nodejs,express"/>
+
 </p>
 
-**Technologies**
+**Backend Technologies**
 
 - RESTful APIs
 - GraphQL
@@ -76,10 +76,12 @@ I'm currently looking for an internship where I can contribute, learn from exper
 
 ---
 
-## 🗄 Databases
+### Databases
 
 <p>
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,redis" />
+
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,redis"/>
+
 </p>
 
 - MongoDB
@@ -89,24 +91,24 @@ I'm currently looking for an internship where I can contribute, learn from exper
 
 ---
 
-## 🛠 Tools
+### Tools
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,docker,vscode,postman,npm" />
+
+<img src="https://skillicons.dev/icons?i=git,github,docker,vscode,postman"/>
+
 </p>
 
 ---
 
-# 🧠 Development Principles
+# 🏗 Engineering Mindset
 
-- Clean Code
-- Scalable Architecture
-- Separation of Concerns
-- Reusable Components
-- RESTful Design
-- Performance First
-- Divide & Conquer
-- Continuous Learning
+- Build solutions, not just features.
+- Write clean, maintainable, and reusable code.
+- Keep architecture simple, scalable, and easy to extend.
+- Focus on user experience as much as backend reliability.
+- Prefer readability over clever code.
+- Always strive to improve code quality with every project.
 
 ---
 
@@ -114,63 +116,53 @@ I'm currently looking for an internship where I can contribute, learn from exper
 
 ## Social Media Platform API
 
-A scalable backend for a modern social media platform built with **Node.js**, **Express**, and **MongoDB**.
+A production-ready backend for a modern social media platform built with **Node.js**, **Express**, **MongoDB**, and **Docker**.
 
-### Features
+### Highlights
 
 - JWT Authentication
 - OAuth
-- Authentication & Authorization
+- Role-Based Authorization
 - RESTful APIs
 - GraphQL
 - Socket.IO
 - Redis Caching
-- MongoDB
 - Docker
+- MongoDB
 
 ### Repository
 
-🔗 **https://github.com/abo-al-magd-404/assignment-17**
+🔗 https://github.com/abo-al-magd-404/assignment-17
 
 ---
 
-# 📈 GitHub Analytics
+# 📊 GitHub Statistics
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=abo-al-magd-404&show_icons=true&theme=github_dark&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=abo-al-magd-404&show_icons=true&include_all_commits=true&rank_icon=github&theme=github_dark&hide_border=true"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abo-al-magd-404&layout=compact&theme=github_dark&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abo-al-magd-404&layout=compact&langs_count=8&theme=github_dark&hide_border=true"/>
 
 </div>
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=abo-al-magd-404&theme=github-dark-blue&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=abo-al-magd-404&theme=github-dark&hide_border=true"/>
 
 </div>
 
 ---
 
-# 📚 Currently Exploring
-
-- Advanced Backend Architecture
-- Distributed Systems
-- Cloud Deployment
-- Software Design Patterns
-- Performance Optimization
-
----
-
-# 🤝 Let's Connect
+# 📫 Contact
 
 📧 **Email**
 
 **abo.al.magd.404@gmail.com**
 
-📱 **WhatsApp**
+💬 **WhatsApp**
 
-**https://wa.me/201095554022**
+https://wa.me/201095554022
 
 ---
 
@@ -178,6 +170,6 @@ A scalable backend for a modern social media platform built with **Node.js**, **
 
 ### Thanks for visiting my profile!
 
-*"Great software isn't just about making things work — it's about building solutions that are clean, scalable, and built to last."*
+**"Building software that is clean, scalable, and built to last."**
 
 </div>
